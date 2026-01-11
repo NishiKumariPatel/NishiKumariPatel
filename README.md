@@ -1,4 +1,4 @@
-<!-- ====== DYNAMIC GITHUB PROFILE README ====== -->
+<!-- ================== GITHUB PROFILE README ================== -->
 
 <div align="center">
 
@@ -22,58 +22,87 @@
 
 ---
 
-## 👩‍💻 Who Am I?
+## 👩‍💻 About Me
 
 🎓 **B.Tech in Computer Science (AI & ML)**  
-🤖 AI & ML enthusiast focused on **real-world problem solving**  
-☁️ Building scalable systems using **AWS & Serverless Architecture**  
-📊 Strong interest in **Data, Automation & Intelligent Systems**
+🤖 Passionate about building **intelligent, data-driven systems**  
+☁️ Focused on **cloud-native & serverless architectures**  
+📊 Strong interest in **Machine Learning, Automation & Analytics**
 
-> *“Learning never stops — especially in tech.”*
-
----
-
-## 🧭 What I’m Focused On
-
-- 🔍 Exploring applied **Machine Learning** use-cases  
-- ☁️ Designing **cloud-native & serverless applications**  
-- 📈 Understanding **data pipelines & analytics systems**  
-- 🛠 Improving code quality, system design & performance  
-- 🌱 Growing through **open-source and community learning**
+> *“Transforming ideas into scalable, intelligent solutions.”*
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🧭 Current Focus
 
-### 🧠 AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0ea5e9?style=flat)
+- 🧠 Applied **Machine Learning & Deep Learning**
+- ☁️ **AWS, GCP & Cloud Infrastructure**
+- 🔄 **Automation & Data Pipelines**
+- 🛠 Writing clean, maintainable & scalable code
+- 🌱 Continuous learning through hands-on projects
 
-### ☁️ Cloud & Backend
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda)
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb)
+---
+
+## 🚀 Languages and Tools I Use
+
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,dart" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,angular,vuetify" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,firebase" />
+</p>
+
+### 🤖 AI / ML & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-0ea5e9?style=flat-square"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+</p>
+
+### 📱 Mobile & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,arduino" />
+</p>
 
 ### 🛠 Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
 
 ---
 
 ## 🧠 Learning Philosophy
 
-✔️ Learn by building  
-✔️ Break things to understand them  
-✔️ Focus on fundamentals before frameworks  
-✔️ Write clean, readable, and scalable code  
-✔️ Stay curious, stay consistent
+✔ Learn by building  
+✔ Focus on fundamentals  
+✔ Break → Debug → Improve  
+✔ Write readable & scalable code  
+✔ Stay consistent, stay curious  
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
