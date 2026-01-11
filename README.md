@@ -117,13 +117,8 @@
 ## 🌸 Connect With Me
 
 🌐 **Portfolio:** https://nishiportfolio.vercel.app/  
-💼 **LinkedIn:** <a href="https://github.com/NishiKumariPatel">
-    <img src="https://img.shields.io/badge/GitHub-Follow-ec4899?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nishi-kumari-184704277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-db2777?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-🐙 **GitHub:** @YourUsername  
+💼 **LinkedIn:** https://github.com/NishiKumariPatel
+🐙 **GitHub:** @NishiKumariPatel 
 
 ---
 
