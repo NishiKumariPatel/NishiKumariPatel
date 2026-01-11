@@ -1,8 +1,13 @@
-<!-- ================== GITHUB PROFILE README (PINK THEME) ================== -->
+<!-- ================== GITHUB PROFILE README (SOFT PINK • ANIMATED) ================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=230&section=header&text=Hi%20I'm%20Nishi%20Kumari!&fontSize=42&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Cloud%20Engineer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=230&section=header&text=Hi%20I'm%20Nishi%20Kumari!&fontSize=42&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Cloud%20Enthusiast&descAlignY=55"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=AI+%26+ML+Learner;Cloud+Computing+Enthusiast;Building+Smart+%26+Scalable+Solutions;Learning+Every+Day+%F0%9F%92%96" />
+
+<br/>
 
 <p align="center">
   <a href="https://nishiportfolio.vercel.app/">
@@ -22,83 +27,78 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284068-7f4b0c47-1f7b-4d7f-b5ff-3bcd7a5e0d91.gif" width="100%"/>
+
 ## 🌸 About Me
 
-🎓 **B.Tech in Computer Science (AI & ML)**  
-🤖 Passionate about **Artificial Intelligence, Machine Learning & Data**  
-☁️ Exploring **Cloud, Serverless & Scalable Systems**  
-💗 Love blending **creativity with technology**
+🎓 **B.Tech – Computer Science (AI & ML)**  
+🤖 Interested in **Artificial Intelligence, Machine Learning & Data**  
+☁️ Exploring **Cloud Computing & Serverless Architecture**  
+💗 I enjoy combining **logic, creativity, and problem-solving**
 
-> *“Strong code. Soft aesthetics. Smart solutions.”*
-
----
-
-## ✨ What I’m Currently Working On
-
-- 🤍 Improving **ML & Deep Learning fundamentals**
-- 🌷 Designing **cloud-native applications**
-- 📊 Data analysis & intelligent automation
-- 💡 Writing clean, readable, elegant code
-- 🌱 Learning something new every day
+> *“Soft aesthetics, strong fundamentals, smart solutions.”*
 
 ---
 
-## 💖 Languages and Tools I Use
+## ✨ What I’m Focusing On
+
+- 🌷 Strengthening **ML & Python fundamentals**
+- ☁️ Learning **AWS & Cloud-native systems**
+- 📊 Working with **data & analytics**
+- 🛠 Writing clean, readable code
+- 🌱 Growing consistently, step by step
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-63c23f3c-5a3b-4cbe-9f63-4e4b9f87f6c6.gif" width="100%"/>
+
+## 💖 Languages & Tools (Core & Common)
 
 ### 👩‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,dart" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
-### 🎀 Frontend Development
+### 🌐 Web Basics
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,angular,vuetify" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🧁 Backend & Frameworks
+### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django" />
 </p>
 
-### 🧠 AI / ML & Data
+### 🤖 AI / ML & Data
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-f9a8d4?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-fbcfe8?style=flat-square"/>
 </p>
 
-### 🗂 Databases
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
-</p>
-
-### 📱 Mobile & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,arduino" />
-</p>
-
-### 🛠 Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=aws,git,docker" />
 </p>
 
 ---
 
-## 🌷 Learning Mindset
+<img src="https://user-images.githubusercontent.com/74038190/212284150-7a7fdc9b-5db5-4e3f-b2d2-8d6f0b44f0d4.gif" width="100%"/>
 
-✔ Learn with curiosity  
-✔ Build with confidence  
-✔ Debug with patience  
-✔ Grow consistently  
-✔ Support & uplift others  
+## 🌷 Learning Philosophy
+
+✨ Learn by doing  
+✨ Consistency over perfection  
+✨ Debug patiently  
+✨ Grow confidently  
+✨ Stay curious  
 
 ---
 
@@ -114,7 +114,7 @@
 
 ---
 
-## 🌸 Let’s Connect
+## 🌸 Connect With Me
 
 🌐 **Portfolio:** https://nishiportfolio.vercel.app/  
 💼 **LinkedIn:** Your LinkedIn Profile  
