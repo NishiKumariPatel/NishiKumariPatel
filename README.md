@@ -1,76 +1,76 @@
-<!-- ================== GITHUB PROFILE README ================== -->
+<!-- ================== GITHUB PROFILE README (PINK THEME) ================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=230&section=header&text=Hi%20I'm%20Nishi%20Kumari!&fontSize=42&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Cloud%20Engineer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=230&section=header&text=Hi%20I'm%20Nishi%20Kumari!&fontSize=42&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Cloud%20Engineer&descAlignY=55"/>
 
 <p align="center">
   <a href="https://nishiportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4b6cb7?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-f472b6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/YourUsername">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-ec4899?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/YourLinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-db2777?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=4b6cb7&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=ec4899&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
 🎓 **B.Tech in Computer Science (AI & ML)**  
-🤖 Passionate about building **intelligent, data-driven systems**  
-☁️ Focused on **cloud-native & serverless architectures**  
-📊 Strong interest in **Machine Learning, Automation & Analytics**
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Data**  
+☁️ Exploring **Cloud, Serverless & Scalable Systems**  
+💗 Love blending **creativity with technology**
 
-> *“Transforming ideas into scalable, intelligent solutions.”*
-
----
-
-## 🧭 Current Focus
-
-- 🧠 Applied **Machine Learning & Deep Learning**
-- ☁️ **AWS, GCP & Cloud Infrastructure**
-- 🔄 **Automation & Data Pipelines**
-- 🛠 Writing clean, maintainable & scalable code
-- 🌱 Continuous learning through hands-on projects
+> *“Strong code. Soft aesthetics. Smart solutions.”*
 
 ---
 
-## 🚀 Languages and Tools I Use
+## ✨ What I’m Currently Working On
 
-### 🧑‍💻 Programming Languages
+- 🤍 Improving **ML & Deep Learning fundamentals**
+- 🌷 Designing **cloud-native applications**
+- 📊 Data analysis & intelligent automation
+- 💡 Writing clean, readable, elegant code
+- 🌱 Learning something new every day
+
+---
+
+## 💖 Languages and Tools I Use
+
+### 👩‍💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,dart" />
 </p>
 
-### 🌐 Frontend Development
+### 🎀 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,angular,vuetify" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### 🧁 Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,django,firebase" />
 </p>
 
-### 🤖 AI / ML & Data
+### 🧠 AI / ML & Data
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-0ea5e9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-f9a8d4?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-fbcfe8?style=flat-square"/>
 </p>
 
-### 🗄️ Databases
+### 🗂 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
@@ -92,13 +92,13 @@
 
 ---
 
-## 🧠 Learning Philosophy
+## 🌷 Learning Mindset
 
-✔ Learn by building  
-✔ Focus on fundamentals  
-✔ Break → Debug → Improve  
-✔ Write readable & scalable code  
-✔ Stay consistent, stay curious  
+✔ Learn with curiosity  
+✔ Build with confidence  
+✔ Debug with patience  
+✔ Grow consistently  
+✔ Support & uplift others  
 
 ---
 
@@ -106,17 +106,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=rose_pine&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=rose_pine&hide_border=true" width="48%"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌸 Let’s Connect
 
-🌍 **Portfolio:** https://nishiportfolio.vercel.app/  
+🌐 **Portfolio:** https://nishiportfolio.vercel.app/  
 💼 **LinkedIn:** Your LinkedIn Profile  
 🐙 **GitHub:** @YourUsername  
 
@@ -124,8 +124,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=120&section=footer"/>
 
-⭐ *Open to internships, collaborations, and AI/ML opportunities* ⭐
+💖 *Open to internships, collaborations & AI/ML opportunities* 💖
 
 </div>
